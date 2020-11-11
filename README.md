@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=sumeetweb">  
-I'm Sumeet Naik, pursuing B.Tech on CSE in Silicon Institute of Technology, Bhubaneswar.  
+I'm Sumeet Naik, pursuing B.Tech in CSE from Silicon Institute of Technology, Bhubaneswar.  
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning NodeJS
