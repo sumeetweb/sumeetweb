@@ -5,7 +5,7 @@ I'm Sumeet Naik, pursuing B.Tech in CSE from Silicon Institute of Technology, Bh
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on freelancing projects
-- 📫 How to reach me: hi@sumeet.xyz
+- 📫 How to reach me: onhax@protonmail.com
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: "Like Java, there is JavaScript; For Coffee, there is CoffeeScript;"
    
